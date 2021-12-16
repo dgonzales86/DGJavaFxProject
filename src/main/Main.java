@@ -33,7 +33,7 @@ public class Main extends Application  /** JAVADOC COMMENTS ARE IN DIRECTORY \DG
      * @param args to launch application.
      */
     public static void main(String [] args)
-     {
+    {
 
 
         launch(args);

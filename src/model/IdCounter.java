@@ -1,7 +1,7 @@
 package model;
 
 /**
-* This class was created so i did not alter original uml diagram members and methods. Ideally I would have liked to place this class into Inventory with other static members as this is a counter
+* This class was created so I did not alter original uml diagram members and methods. Ideally I would have liked to place this class into Inventory with other static members as this is a counter
 * for both parts and products.
 * */
 public class IdCounter {

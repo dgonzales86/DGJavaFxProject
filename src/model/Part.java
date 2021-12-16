@@ -133,4 +133,20 @@ public abstract class Part
     {
         this.max = max;
     }
+
+    /**
+     *
+     * @return Returns part object
+     */
+    @Override
+    public String toString() {
+        return "Part{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", price=" + price +
+                ", stock=" + stock +
+                ", min=" + min +
+                ", max=" + max +
+                '}';
+    }
 }
